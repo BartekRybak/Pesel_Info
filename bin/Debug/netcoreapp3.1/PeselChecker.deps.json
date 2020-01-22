@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PeselChecker/1.0.0": {
+        "runtime": {
+          "PeselChecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeselChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

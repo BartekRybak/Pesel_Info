@@ -1,0 +1,11 @@
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\bin\Debug\netcoreapp3.1\PeselChecker.exe
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\bin\Debug\netcoreapp3.1\PeselChecker.deps.json
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\bin\Debug\netcoreapp3.1\PeselChecker.runtimeconfig.json
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\bin\Debug\netcoreapp3.1\PeselChecker.runtimeconfig.dev.json
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\bin\Debug\netcoreapp3.1\PeselChecker.dll
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\bin\Debug\netcoreapp3.1\PeselChecker.pdb
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\obj\Debug\netcoreapp3.1\PeselChecker.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\obj\Debug\netcoreapp3.1\PeselChecker.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\obj\Debug\netcoreapp3.1\PeselChecker.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\obj\Debug\netcoreapp3.1\PeselChecker.dll
+C:\Users\Bartek\source\repos\PeselChecker\PeselChecker\obj\Debug\netcoreapp3.1\PeselChecker.pdb
